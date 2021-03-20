@@ -3,4 +3,9 @@ good day.
 hi
 how are you ?
 
-insert new message to text.
+insert new message to tex.
+hello,world.
+hi
+how are you ?
+fine,thank you.
+
